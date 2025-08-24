@@ -1,0 +1,4 @@
+Собака|Fido|01.02.2020|Paw
+Лошадь|Storm|03.04.2020|Gallop
+Хомяк|Peanut|02.01.2024|Roll
+Кошка|Murka|01.03.2021|Scratch
